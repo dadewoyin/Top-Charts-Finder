@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "A viewer for the Billboard Hot 100",
   "main": "app.js",
+  "repository": "https://github.com/dadewoyin/Top-Charts-Finder",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
